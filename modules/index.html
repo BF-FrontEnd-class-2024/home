@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8" />
@@ -67,8 +67,9 @@
             return readmeCache[repoURL];
           }
 
-          const { repoWithBranch, rawWithBranch } =
-            await processRepoURL(repoURL);
+          const { repoWithBranch, rawWithBranch } = await processRepoURL(
+            repoURL,
+          );
 
           const readmeMd = await fetch(`${rawWithBranch}/README.md`).then(
             (res) => res.text(),

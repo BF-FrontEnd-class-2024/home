@@ -1,6 +1,6 @@
 # Hi my name is 🔥Rohma🔥
 
-![/my image](./img/Rohma.JPG) I'm Indonesian living in Belgium 😄
+![/my image](./img/Rohma.jpg) I'm Indonesian living in Belgium 😄
 
 I'm motivated to learn something new 😍 Interested to learn:
 
@@ -23,4 +23,4 @@ I'm motivated to learn something new 😍 Interested to learn:
 ## JavaScript is my favourite programming language so far
 
 [let's keep in touch with
-me!][https://www.linkedin.com/in/rohma-vihana-enggardini-591b02274/]
+me!](https://www.linkedin.com/in/rohma-vihana-enggardini-591b02274/)

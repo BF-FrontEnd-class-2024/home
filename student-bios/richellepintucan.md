@@ -71,7 +71,7 @@ Recognized by NARIC-Vlaanderen
 - [x] Tagalog
 - [x] French
 - [x] Dutch
-- [] Spanish
+- [ ] Spanish
 
 ## Hobbies
 

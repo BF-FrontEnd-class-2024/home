@@ -1,7 +1,8 @@
 # Ahmad Haj Issa
 
-### Summary
+## Summary
 
-Hi, Ahmad is a motivated and detail-oriented junior Ui/Ux designer and a junior Front-End developer.
+Hi, Ahmad is a motivated and detail-oriented junior Ui/Ux designer and a junior
+Front-End developer.
 
-![](../student-bios/img/ahmad_profile.jpg)
+![Ahmad](../student-bios/img/ahmad_profile.jpg)

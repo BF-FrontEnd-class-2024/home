@@ -27,6 +27,6 @@
 
 ## **_contact_**
 
-#### ✉️ boss_emrah@hotmail.com
+### ✉️ <boss_emrah@hotmail.com>
 
 ---

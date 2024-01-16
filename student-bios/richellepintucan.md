@@ -40,7 +40,7 @@ Recognized by NARIC-Vlaanderen
 
 3. Aupair - Netherlands, Belgium, Norway | 2010 - 2014
 
-4. Search Engine Optimization - Facebook | 2007 - 2010
+4. Search Engine Optimization - Versomina | 2007 - 2010
 
 ## Hard Skill
 

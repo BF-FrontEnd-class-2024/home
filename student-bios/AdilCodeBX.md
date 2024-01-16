@@ -2,9 +2,9 @@
 
 ![hyf](./img/AdilCodeBX.jpg)
 
-# About me 📝
+## About me 📝
 
-## Im 31 years old and im from  *Morocco*
+## Im 31 years old and im from _Morocco_
 
 ## Studies 📚
 

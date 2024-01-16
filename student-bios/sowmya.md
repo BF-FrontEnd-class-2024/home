@@ -10,13 +10,13 @@ My self sowmya,I am from India .I have Bachelor degree in Science and
 Education.I had 3 years experience in teaching. I speak English and little
 French.
 
-### Hobby 🛍️
+## Hobby 🛍️
 
 - Reading
 - Travel
 - Shopping
 
-#### Qualification 🥇
+## Qualification 🥇
 
 - Bachelor Degree of Science
 - Bachelor Degree of Education.

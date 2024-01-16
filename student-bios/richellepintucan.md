@@ -80,3 +80,5 @@ Recognized by NARIC-Vlaanderen
 🎵 🎧 Music
 
 🧳✈️📍✨ Travel
+
+🚶🏾‍♀️ Walking

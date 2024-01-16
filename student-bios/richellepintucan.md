@@ -4,7 +4,7 @@
 
 ## Contacts
 
-✉️ richellepintucan@yahoo.com
+✉️ <richellepintucan@yahoo.com>
 
 🤙+32467699121
 

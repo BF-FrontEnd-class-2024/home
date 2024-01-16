@@ -2,7 +2,6 @@
 
 ### Summary
 
-Hi, Ahmad is a motivated and detail-oriented junior Ui/Ux designer and a junior
-Front-End developer.
+Hi, Ahmad is a motivated and detail-oriented junior Ui/Ux designer and a junior Front-End developer.
 
-![Alt text](home/student-bios/img/ahmadissa99)
+![](../student-bios/img/ahmad_profile.jpg)

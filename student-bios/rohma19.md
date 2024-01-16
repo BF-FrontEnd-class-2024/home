@@ -1,6 +1,8 @@
 # Hi my name is 🔥Rohma🔥
 
-![/my image](./img/Rohma.jpg) I'm Indonesian living in Belgium 😄
+![my image](./img/rhoma.jpg)
+
+## I'm Indonesian living in Belgium 😄
 
 I'm motivated to learn something new 😍 Interested to learn:
 

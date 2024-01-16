@@ -22,5 +22,6 @@ I'm motivated to learn something new 😍 Interested to learn:
 
 ## JavaScript is my favourite programming language so far
 
-[let's keep in touch with
-me!](https://www.linkedin.com/in/rohma-vihana-enggardini-591b02274/)
+---
+
+[let's keep in touch with me!](https://www.linkedin.com/in/rohma-vihana-enggardini-591b02274/)

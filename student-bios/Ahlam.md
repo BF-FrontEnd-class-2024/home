@@ -1,7 +1,7 @@
 # Hello 👋
 
 Before we move on any further Let me introduce myself ; My name is Ahlam😊  
-i'm from Algeria
+i'm from Algeria 🌏
 
 ![My Photo](./img/avatar.jpg)
 
@@ -12,11 +12,15 @@ i'm from Algeria
 | License degree | Accounting and Finance | 2017 | 
 | | | |
 
-Hobbies :
+Professional Experience:
+- preschool teacher📋🎒 
 
-- Travelling
-- Reading
-- cooking
+Hobbies 😍😍 :
+
+- Travelling 🔥
+- Reading 📚
+- cooking 🍜
+- swimming 🏊
 
 📕Languages :
 

@@ -4,7 +4,7 @@
 
 ![hyfcourse](./img/rodicailciuc.png)
 
-1. 🎶 **Biography**
+### 🎶 **Biography**
 
 ---
 
@@ -16,7 +16,7 @@
 - I decide to change my career-path , so I'am currently studying to be a
   front-end web developer.
 
-1. 🌄 **Personality**
+### 🌄 **Personality**
 
 ---
 
@@ -26,7 +26,7 @@
 - Spontaneous
 - Responsible
 
-1. 🔆 **About me hobbies**
+### 🔆 **About me hobbies**
 
 ---
 
@@ -35,14 +35,14 @@
 - ⛰️Mountain Hiking
 - Gardening 🌱 💐
 
-1. 💡 **Quote**
+### 💡 **Quote**
 
 ---
 
 - _\*The only think **STANDING** between YOU & your Goal is the bullshit **STORY
   YOU KEEP TELLING YOURSELF\***_.
 
-1. 📓 **Where you can find me**
+### 📓 **Where you can find me**
 
 ---
 

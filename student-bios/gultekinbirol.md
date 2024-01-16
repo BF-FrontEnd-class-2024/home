@@ -1,9 +1,10 @@
 # Hi I'm Gultekin 👋🏻
 
-![profile-photo](/student-bios/img/gultekinbirol.jpg) 
+![profile-photo](./img/gultekinbirol.jpg)
 
 ## Quick Summary
-```
+
+```JSON
 {
   "firstName": "Gultekin",
   "lastName": "Birol",
@@ -12,7 +13,7 @@
   "age": "29",
   "from": "Turkey",
   "livingIn": "Temse, Belgium",
-  
+
 }
 ```
 
@@ -20,8 +21,8 @@
 
 ## Education and Certificates
 
-- Kirikkale University - **Physical Education and Sports Teaching** - *2018*
-- HackYourFuture - **Front end Development** - *⏳*
+- Kirikkale University - **Physical Education and Sports Teaching** - _2018_
+- HackYourFuture - **Front end Development** - _⏳_
 
 ## Hobbies
 
@@ -33,11 +34,12 @@
 ## Design Skills
 
 - HTML5
-- CSS3 *(SCSS) , Tailwind CSS*
+- CSS3 _(SCSS) , Tailwind CSS_
 - JavaScript
 - Wordpress
 - Figma
 
 ## Contact
+
 - [E-mail](mailto:gltkn.brl@gmail.com)
 - [Linkedin](https://be.linkedin.com/in/gultekinbirol)

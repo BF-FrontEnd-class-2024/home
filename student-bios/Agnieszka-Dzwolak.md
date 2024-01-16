@@ -2,48 +2,40 @@
 
 ![aga](./img/Agnieszka.jpg)
 
-I'm an aspiring programmer 😃
+## About Me 😃
 
-![cat](./img/cat.gif.gif.gif)
+Greetings from Belgium! I'm Agnieszka, and I come from Poland with a background
+in Land and Real Estate Management. After completing my master's degree and
+gaining 8 years of experience in Logistics, I've decided to embark on an
+exciting new journey in Web Development.
 
-![game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+Living in Belgium has enriched my experiences, and now I'm channeling my passion
+for building websites into becoming an aspiring programmer. The prospect of
+creating digital landscapes and contributing to the ever-evolving world of
+technology excites me, and I'm super motivated to dive into this transformative
+career change.
 
-I am improving my knowledge about:
+![cat](./img/cat-gif.gif)
+
+I'm currently enhancing my skills and knowledge in:
 
 ![html](./img/HTML.jpg) ![css](./img/CSS.jpg) ![js](./img/JS.jpg)
 ![react](./img/React.jpg)
 
-I come from Poland but I have been living in Belgium for 5 years. I completed my
-master's degree in Land and Real Estate Management and worked for 8 years in
-Logistic in Poland and Belgium.
-
-I decided to completely change careers and start my journey in Web Developement.
-I feel passionate about building websites and I'm super motivated.
-
-My hobbies:
-
-- travel 🌴,
-- cross-fit :,
-- ice-swimming ❄️🏊‍♀️,
-- food,
-- singing under the shower 🚿🎤,
-
-> Dorothy followed her through many of the beautiful rooms in her castle.
-
-<html>
-  <head>
-    <title>Test</title>
-  </head>
-</html>
-
-![hyf](../assets/linux.png)
-
 ---
 
-[HYF](https://hackyourfuture.be/)
+![game](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-| Tables   |      Are      |  Cool |
-| -------- | :-----------: | ----: |
-| col 1 is | left-aligned  | $1600 |
-| col 2 is |   centered    |   $12 |
-| col 3 is | right-aligned |    $1 |
+## My hobbies 🌴
+
+- travel 🌴
+- cross-fit 💪
+- ice-swimming ❄️🏊‍♀️
+- food 🍔
+- singing under the shower 🚿🎤,
+
+## Languages 🎏
+
+- English
+- French
+- Polish

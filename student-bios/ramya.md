@@ -1,0 +1,25 @@
+# Hi, I'm Ramya sri Pentapati 🙋‍♀️
+
+![my image](./img/image.jpg)
+
+\*I'm from India. I have been in Belgium for almost two years. I came here with
+my husband and tried to find a job. I realized I didn't have enough skills, so I
+applied to HYF (**_Hack Your Future_**) and got selected.\*
+
+- 🌟Passion for front-end development.🌟
+
+- I can speek two languages(**Telugu and English**) and also I can understand
+  **Hindi**.😀
+
+## MY HOBBIES
+
+- Painting 🖌️
+- Playing Badminton 🏸
+- cooking new cuisine 🥘
+- shopping 🛍️
+- Traveling 🚄
+
+## Follow me on
+
+- Linkedin
+- Instagram

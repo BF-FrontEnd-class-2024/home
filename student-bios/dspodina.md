@@ -14,7 +14,7 @@ on this beautiful world.
 - CSS / Tailwind
 - JS / React
 
-## Experience
+## Experience 🚀
 
 - Master's degree in marketing
 - Sales manager in the past
@@ -27,7 +27,7 @@ on this beautiful world.
 - Cycling
 - Hicking
 
-## Three random facts
+## Three random facts 🌎
 
 1. Snakes is my biggest fear
 2. Food-addicted person. Can be rude when hungry

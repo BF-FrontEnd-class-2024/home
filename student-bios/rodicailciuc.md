@@ -1,6 +1,6 @@
-🎇 **Welcome to my Wiki** 🎇
+# 🎇 **Welcome to my Wiki** 🎇
 
-# _Rodica Ilciuc_
+## _Rodica Ilciuc_
 
 ![hyfcourse](./img/rodicailciuc.png)
 
@@ -16,7 +16,7 @@
 - I decide to change my career-path , so I'am currently studying to be a
   front-end web developer.
 
-2. 🌄 **Personality**
+1. 🌄 **Personality**
 
 ---
 
@@ -26,7 +26,7 @@
 - Spontaneous
 - Responsible
 
-3. 🔆 **About me hobbies**
+1. 🔆 **About me hobbies**
 
 ---
 
@@ -35,16 +35,16 @@
 - ⛰️Mountain Hiking
 - Gardening 🌱 💐
 
-4. 💡 **Quote**
+1. 💡 **Quote**
 
 ---
 
 - _\*The only think **STANDING** between YOU & your Goal is the bullshit **STORY
   YOU KEEP TELLING YOURSELF\***_.
 
-5. 📓 **Where you can find me**
+1. 📓 **Where you can find me**
 
 ---
 
-- 📧 rodicailciuc@yahoo.com
+- 📧 <rodicailciuc@yahoo.com>
 - My github [link text](https://github.com/rodicailciuc)

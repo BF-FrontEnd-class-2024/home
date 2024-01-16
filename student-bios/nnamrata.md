@@ -19,4 +19,6 @@ have research experience. I worked on research project during my masters. ğŸ˜ƒğŸ
 
 ## Contact
 
-Fone number - 11111
+phone number - 11111
+
+

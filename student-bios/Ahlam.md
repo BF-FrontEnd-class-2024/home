@@ -5,9 +5,12 @@ i'm from Algeria
 
 ![My Photo](./img/avatar.jpg)
 
-🎓Education: | Diploma | Field | Year | |----------|:-------------:|------:| |
-Master degree | Accounting and Audit | 2019 | | License degree | Accounting and
-Finance | 2017 | | | | |
+🎓Education: 
+| Diploma | Field | Year | 
+|----------|:-------------:|------:| 
+|Master degree | Accounting and Audit | 2019 | 
+| License degree | Accounting and Finance | 2017 | 
+| | | |
 
 Hobbies :
 

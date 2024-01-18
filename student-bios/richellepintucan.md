@@ -6,6 +6,8 @@
 
 ✉️ <richellepintucan@yahoo.com>
 
+🔗 <https://chelcaboodle.online/>
+
 🤙+32467699121
 
 🏠 Rue des Matériaux 20, 1070 Bruxelles
@@ -17,8 +19,7 @@
 Having a previous background in Informaion Technology, I am looking for
 professional challenges where I would make good use of my interpersonal skills,
 excellent time management and problem- solving skills. Eager to contribute to
-team success by working smart, I have a basic knowledge in HTML, CSS and
-Javascript.
+team success by working smart.
 
 ## Education
 
@@ -82,3 +83,6 @@ Recognized by NARIC-Vlaanderen
 🧳✈️📍✨ Travel
 
 🚶🏾‍♀️ Walking
+
+🍁🍂📚☕️🌥 I love to read quotes/a quote enthusiast/a quote lover/a quote
+collector/quoter/a quote connoisseur/or a quote aficionado.

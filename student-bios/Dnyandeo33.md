@@ -3,7 +3,7 @@
 Hi… I’m **DNYANDEO WAGHUNDE** from India. Currently, living in Belgium.
 `Journalist` by profession. `Technology` lover by passion.
 
-![Ahmad](./img/dnyanu.jpeg)
+![Dnyandeo](./img/dnyanu.jpeg)
 
     Always had curiosity about creative websites and apps.
 

@@ -1,69 +1,30 @@
-# Richelle Pintucan, *Front-End Developer Trainee*👸 </>💻 🛠 📚 🎧
+# Richelle Pintucan, *Front-End Developer*👸 </>💻 🛠 📚 🎧
 
 [Motivation](https://codepen.io/richellepintucan/pen/MWPgwya/)
 
 ## Contacts
 
-✉️ <richellepintucan@yahoo.com>
+✉️ richellepintucan@yahoo.com
 
 🔗 <https://chelcaboodle.online/>
-
-🤙+32467699121
-
-🏠 Rue des Matériaux 20, 1070 Bruxelles
 
 ## ![My id photo](./img/richellepintucan.png)
 
 ## About Me
 
-Having a previous background in Informaion Technology, I am looking for
-professional challenges where I would make good use of my interpersonal skills,
-excellent time management and problem- solving skills. Eager to contribute to
-team success by working smart.
+Hi 👋, I'm Richelle Pintucan, *front-end developer*. Period.
 
 ## Education
 
-Jose Rizal University
+Bachelor of Science in Information Technology
 
-Bachelor of Science in Information
-
-Technology
-
-Completed in 2007
-
-Recognized by NARIC-Vlaanderen
+-Completed in 2007
 
 ## Professional Experience
 
-1. Finance Administrator - DIA9 | September 2022 - February 2023
-
-2. Sales Consultant - SWFS | June 2020 - August 2022
-
-3. Aupair - Netherlands, Belgium, Norway | 2010 - 2014
-
-4. Search Engine Optimization - Versomina | 2007 - 2010
-
-## Hard Skill
-
-- HTML/CSS/Javascript
-
-- Wordpress
-
-- Blogging
-
-- Data Entry
-
-- Google Suite/Microsoft Office
-
-## Soft Skill
-
-- Problem-Solving
-
-- Team-Player
-
-- Research
-
-- Interpersonal and written communication
+- Finance Administrator
+- Sales Consultant
+- Search Engine Optimization
 
 ## Language
 
